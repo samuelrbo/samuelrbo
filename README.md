@@ -3,7 +3,9 @@
 In simple words, I don't know what I'm doing 😅.
 
 <p align="center">
-  ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=samuelrbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=45%" />
+  </a>
   
   <a href="https://app.daily.dev/samuelrbo">
     <img src="https://github.com/samuelrbo/samuelrbo/blob/main/devcard.svg" width="45%" alt="Samuel Ramon's Dev Card"/>

@@ -2,11 +2,14 @@
 
 In simple words, I don't know what I'm doing 😅.
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=samuelrbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=samuelrbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=45%)
+  
+  <a href="https://app.daily.dev/samuelrbo">
+    <img src="https://github.com/samuelrbo/samuelrbo/blob/main/devcard.svg" width="45%" alt="Samuel Ramon's Dev Card"/>
+  </a>
+</div>
 
-<a href="https://app.daily.dev/samuelrbo">
-  <img src="https://github.com/samuelrbo/samuelrbo/blob/main/devcard.svg" width="400" alt="Samuel Ramon's Dev Card"/>
-</a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 

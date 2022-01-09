@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://app.daily.dev/samuelrbo">
-  <img align="right" src="https://github.com/samuelrbo/samuelrbo/blob/main/devcard.svg" width="45%" alt="Samuel Ramon's Dev Card"/>
+  <img align="right" src="https://github.com/samuelrbo/samuelrbo/blob/main/devcard.svg" width="25%" alt="Samuel Ramon's Dev Card"/>
 </a>
 
 <p>
